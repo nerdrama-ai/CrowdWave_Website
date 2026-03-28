@@ -1,5 +1,5 @@
-import MeshBackground from "@/components/MeshBackground";
-import Navbar from "@/components/Navbar";
+import MeshBackground from "../components/MeshBackground";
+import Navbar from "../components/Navbar";
 
 export default function Page() {
   return (
